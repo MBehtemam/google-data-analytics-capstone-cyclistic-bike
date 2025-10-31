@@ -1,0 +1,45 @@
+# Data files
+data/
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+plots/
+visualizations/
+*.db

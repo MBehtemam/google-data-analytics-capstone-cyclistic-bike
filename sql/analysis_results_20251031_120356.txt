@@ -1,0 +1,153 @@
+=== OVERALL STATISTICS BY USER TYPE ===
+member|2243723|89.94|8.35|1.02|16.65|8.35
+casual|251058|10.06|10.73|1.02|16.65|10.73
+=== RIDES BY DAY OF WEEK ===
+casual|Sunday|43616|10.93|17.37
+member|Sunday|183841|8.39|8.19
+casual|Monday|29510|10.6|11.75
+member|Monday|354804|8.34|15.81
+casual|Tuesday|28703|10.55|11.43
+member|Tuesday|385069|8.35|17.16
+casual|Wednesday|29595|10.58|11.79
+member|Wednesday|382123|8.37|17.03
+casual|Thursday|32732|10.59|13.04
+member|Thursday|377318|8.34|16.82
+casual|Friday|36572|10.61|14.57
+member|Friday|355593|8.28|15.85
+casual|Saturday|50330|11.0|20.05
+member|Saturday|204975|8.46|9.14
+=== AVERAGE RIDE LENGTH BY DAY ===
+Sunday|8.39|10.93|2.54
+Monday|8.34|10.6|2.25
+Tuesday|8.35|10.55|2.2
+Wednesday|8.37|10.58|2.21
+Thursday|8.34|10.59|2.25
+Friday|8.28|10.61|2.33
+Saturday|8.46|11.0|2.53
+=== WEEKEND VS WEEKDAY PATTERNS ===
+casual|Weekday|157112|62.58|10.59
+casual|Weekend|93946|37.42|10.96
+member|Weekday|1854907|82.67|8.34
+member|Weekend|388816|17.33|8.43
+=== RIDES BY HOUR OF DAY ===
+0|15468|12266|3202|8.0|10.1
+1|8953|6985|1968|7.84|10.1
+2|5350|4042|1308|7.9|9.91
+3|3640|2876|764|8.12|10.02
+4|5909|5347|562|7.24|9.55
+5|28975|27548|1427|7.39|9.11
+6|86432|83149|3283|8.12|9.41
+7|185769|178998|6771|8.25|9.67
+8|236010|225985|10025|8.5|10.06
+9|116713|108013|8700|8.18|10.38
+10|88956|78032|10924|8.15|10.67
+11|106345|92643|13702|8.03|10.83
+12|122045|105778|16267|7.97|10.88
+13|117958|100849|17109|8.04|10.98
+14|113509|96095|17414|8.23|10.98
+15|142803|123961|18842|8.41|11.02
+16|244147|222062|22085|8.66|11.01
+17|310846|285106|25740|8.72|10.91
+18|204260|182836|21424|8.43|10.85
+19|133133|116982|16151|8.38|10.79
+20|84994|73556|11438|8.39|10.8
+21|61992|53165|8827|8.38|10.62
+22|44143|36312|7831|8.3|10.64
+23|26431|21137|5294|8.21|10.33
+=== PEAK HOURS BY USER TYPE ===
+Member Peak Hours|17|285106|8.72
+Member Peak Hours|8|225985|8.5
+Member Peak Hours|16|222062|8.66
+Member Peak Hours|18|182836|8.43
+Member Peak Hours|7|178998|8.25
+Casual Peak Hours|17|25740|10.91
+Casual Peak Hours|16|22085|11.01
+Casual Peak Hours|18|21424|10.85
+Casual Peak Hours|15|18842|11.02
+Casual Peak Hours|14|17414|10.98
+=== RIDES BY MONTH ===
+January|84531|82834|1697|2.01
+February|80555|79318|1237|1.54
+March|127941|123224|4717|3.69
+April|181338|169938|11400|6.29
+May|235196|215301|19895|8.46
+June|284281|250240|34041|11.97
+July|316762|271080|45682|14.42
+August|343342|292051|51291|14.94
+September|313057|272655|40402|12.91
+October|265222|239232|25990|9.8
+November|140606|132204|8402|5.98
+December|121950|115646|6304|5.17
+=== RIDES BY QUARTER (SEASON) ===
+Q1|casual|7651|10.28|2.61
+Q1|member|285376|7.82|97.39
+Q2|casual|65336|10.92|9.32
+Q2|member|635479|8.45|90.68
+Q3|casual|137375|10.81|14.12
+Q3|member|835786|8.65|85.88
+Q4|casual|40696|10.21|7.71
+Q4|member|487082|8.02|92.29
+=== RIDE DURATION STATISTICS ===
+=== RIDE LENGTH DISTRIBUTION ===
+casual|< 5 min|18561|7.39
+casual|5-10 min|84792|33.77
+casual|10-20 min|147705|58.83
+member|< 5 min|505285|22.52
+member|5-10 min|994926|44.34
+member|10-20 min|743512|33.14
+=== TOP 10 START STATIONS - MEMBERS ===
+Canal St & Adams St|42365|9.21
+Clinton St & Madison St|38540|8.35
+Clinton St & Washington Blvd|38016|9.03
+Kingsbury St & Kinzie St|27380|7.46
+Columbus Dr & Randolph St|26260|8.83
+Franklin St & Monroe St|23179|9.07
+Daley Center Plaza|22195|8.65
+Canal St & Madison St|21900|8.79
+Michigan Ave & Washington St|19903|9.1
+Wells St & Huron St|18414|7.92
+=== TOP 10 START STATIONS - CASUAL ===
+Streeter Dr & Grand Ave|7190|12.1
+Lake Shore Dr & Monroe St|5809|12.46
+Lake Shore Dr & North Blvd|3974|12.48
+Shedd Aquarium|3777|11.52
+Millennium Park|3349|11.44
+Theater on the Lake|2957|11.87
+Michigan Ave & Oak St|2622|11.91
+Dusable Harbor|2518|11.25
+Michigan Ave & Washington St|2252|11.21
+Clark St & Lincoln Ave|2154|11.02
+=== TOP 10 END STATIONS - MEMBERS ===
+Clinton St & Washington Blvd|42950|8.92
+Canal St & Adams St|42275|9.24
+Clinton St & Madison St|38660|8.43
+Kingsbury St & Kinzie St|27209|7.47
+Michigan Ave & Washington St|24862|8.45
+Canal St & Madison St|23940|7.69
+Daley Center Plaza|23887|8.14
+Franklin St & Monroe St|20546|9.01
+Larrabee St & Kingsbury St|19588|8.39
+Clinton St & Lake St|18983|7.87
+=== TOP 10 END STATIONS - CASUAL ===
+Streeter Dr & Grand Ave|8801|12.39
+Millennium Park|4221|11.72
+Lake Shore Dr & Monroe St|4129|11.72
+Lake Shore Dr & North Blvd|4010|12.23
+Shedd Aquarium|3514|11.36
+Michigan Ave & Oak St|3099|11.64
+Michigan Ave & Washington St|2884|11.17
+Theater on the Lake|2557|11.78
+Michigan Ave & 8th St|2045|10.94
+Wabash Ave & Grand Ave|1956|10.98
+=== ROUND TRIPS ANALYSIS ===
+casual|15170|251058|6.04|7.46
+member|24771|2243723|1.1|7.14
+=== WEEKEND AFTERNOON RIDES (12PM-6PM) ===
+casual|54267|11.18|21.21
+member|201581|8.59|78.79
+=== WEEKDAY MORNING COMMUTE (7AM-9AM) ===
+casual|18675|9.94|3.86
+member|465186|8.38|96.14
+=== WEEKDAY EVENING COMMUTE (4PM-7PM) ===
+casual|59320|10.8|7.72
+member|708990|8.6|92.28
