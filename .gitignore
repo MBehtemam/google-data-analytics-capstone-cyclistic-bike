@@ -42,3 +42,4 @@ Thumbs.db
 *.pdf
 plots/
 visualizations/
+*.db
