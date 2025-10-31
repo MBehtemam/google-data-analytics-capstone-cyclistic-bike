@@ -38,6 +38,6 @@ Thumbs.db
 # Output files
 *.jpg
 *.jpeg
-*.pdf
+
 visualizations/
 *.db
